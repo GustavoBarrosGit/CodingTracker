@@ -12,5 +12,4 @@ The **Coding Tracker** is a simple console application that allows users to log 
 - Enforces specific input formats for date and time logging.
 - Uses **Spectre.Console** for enhanced output formatting and user input handling.
 - Implements a separate configuration file for database paths and connection strings.
-- Includes a `CodingSession` class to encapsulate properties: Id, StartTime, EndTime, Duration.
 - Calculates the duration of coding sessions automatically, based on the start and end times.
