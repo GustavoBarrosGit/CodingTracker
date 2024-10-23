@@ -1,6 +1,6 @@
 ## Overview
 
-The **Coding Tracker** is a simple console application that allows users to log and track their daily coding time. The application uses **SQLite** as its database and interacts with it using **Dapper**. This project aims to deepen understanding of best practices in C# development while applying Object-Oriented Programming principles.
+The **Coding Tracker** is a simple console application that allows users to log and track their daily coding time. The application uses **SQLite** as its database and interacts with it using **Dapper**.
 
 ## Features
 
