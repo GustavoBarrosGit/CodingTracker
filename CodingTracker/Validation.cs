@@ -30,7 +30,6 @@ namespace CodingTracker
 
             return date;
         }
-
         internal static DateTime ValidateEndDate(DateTime startDate, string endDateInput)
         {
             DateTime endDate;
